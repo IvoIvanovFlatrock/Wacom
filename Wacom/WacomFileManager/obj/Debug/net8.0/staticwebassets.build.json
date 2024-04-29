@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9r4jn9FsGjm++XkHyHXdkuKQEQzsiIO+YiRJx70dG/Q=",
+  "Source": "WacomAPI",
+  "BasePath": "_content/WacomAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

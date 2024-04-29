@@ -1,0 +1,12 @@
+C:\repos\Test\Wacom\WacomCore\bin\Debug\net8.0\WacomCore.deps.json
+C:\repos\Test\Wacom\WacomCore\bin\Debug\net8.0\WacomCore.dll
+C:\repos\Test\Wacom\WacomCore\bin\Debug\net8.0\WacomCore.pdb
+C:\repos\Test\Wacom\WacomCore\obj\Debug\net8.0\WacomCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Test\Wacom\WacomCore\obj\Debug\net8.0\WacomCore.AssemblyInfoInputs.cache
+C:\repos\Test\Wacom\WacomCore\obj\Debug\net8.0\WacomCore.AssemblyInfo.cs
+C:\repos\Test\Wacom\WacomCore\obj\Debug\net8.0\WacomCore.csproj.CoreCompileInputs.cache
+C:\repos\Test\Wacom\WacomCore\obj\Debug\net8.0\WacomCore.dll
+C:\repos\Test\Wacom\WacomCore\obj\Debug\net8.0\refint\WacomCore.dll
+C:\repos\Test\Wacom\WacomCore\obj\Debug\net8.0\WacomCore.pdb
+C:\repos\Test\Wacom\WacomCore\obj\Debug\net8.0\ref\WacomCore.dll
+C:\repos\Test\Wacom\WacomCore\obj\Debug\net8.0\WacomCore.csproj.AssemblyReference.cache
