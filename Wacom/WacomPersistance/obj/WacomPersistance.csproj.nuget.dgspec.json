@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\Test\\Wacom\\WacomPersistance\\WacomPersistance.csproj": {}
+    "C:\\repos\\Test\\git-wacom\\Wacom\\Wacom\\WacomPersistance\\WacomPersistance.csproj": {}
   },
   "projects": {
-    "C:\\repos\\Test\\Wacom\\WacomCore\\WacomCore.csproj": {
+    "C:\\repos\\Test\\git-wacom\\Wacom\\Wacom\\WacomCore\\WacomCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\Test\\Wacom\\WacomCore\\WacomCore.csproj",
+        "projectUniqueName": "C:\\repos\\Test\\git-wacom\\Wacom\\Wacom\\WacomCore\\WacomCore.csproj",
         "projectName": "WacomCore",
-        "projectPath": "C:\\repos\\Test\\Wacom\\WacomCore\\WacomCore.csproj",
+        "projectPath": "C:\\repos\\Test\\git-wacom\\Wacom\\Wacom\\WacomCore\\WacomCore.csproj",
         "packagesPath": "C:\\Users\\IvoIvanov\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\Test\\Wacom\\WacomCore\\obj\\",
+        "outputPath": "C:\\repos\\Test\\git-wacom\\Wacom\\Wacom\\WacomCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\repos\\Test\\Wacom\\WacomPersistance\\WacomPersistance.csproj": {
+    "C:\\repos\\Test\\git-wacom\\Wacom\\Wacom\\WacomPersistance\\WacomPersistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\Test\\Wacom\\WacomPersistance\\WacomPersistance.csproj",
+        "projectUniqueName": "C:\\repos\\Test\\git-wacom\\Wacom\\Wacom\\WacomPersistance\\WacomPersistance.csproj",
         "projectName": "WacomPersistance",
-        "projectPath": "C:\\repos\\Test\\Wacom\\WacomPersistance\\WacomPersistance.csproj",
+        "projectPath": "C:\\repos\\Test\\git-wacom\\Wacom\\Wacom\\WacomPersistance\\WacomPersistance.csproj",
         "packagesPath": "C:\\Users\\IvoIvanov\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\Test\\Wacom\\WacomPersistance\\obj\\",
+        "outputPath": "C:\\repos\\Test\\git-wacom\\Wacom\\Wacom\\WacomPersistance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -109,8 +109,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\repos\\Test\\Wacom\\WacomCore\\WacomCore.csproj": {
-                "projectPath": "C:\\repos\\Test\\Wacom\\WacomCore\\WacomCore.csproj"
+              "C:\\repos\\Test\\git-wacom\\Wacom\\Wacom\\WacomCore\\WacomCore.csproj": {
+                "projectPath": "C:\\repos\\Test\\git-wacom\\Wacom\\Wacom\\WacomCore\\WacomCore.csproj"
               }
             }
           }

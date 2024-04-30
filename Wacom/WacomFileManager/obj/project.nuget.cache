@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4TNT3prNEC/Pz4oyUmQvjwWnFzrONddH99xP8kiDAhqktBN0aYN2XumMz9f7Du/cKxE/wmCQbkN5UeT5Ibvgwg==",
+  "dgSpecHash": "Y93SW7ak3NhoZm+mBoeRLuFuOJ22imQL7Mvo5plIMQLfsrxG3/+0XQLqjTLJ+nuPfE7KwkSXHTQyIR/8WrPe2w==",
   "success": true,
-  "projectFilePath": "C:\\repos\\Test\\Wacom\\WacomFileManager\\WacomAPI.csproj",
+  "projectFilePath": "C:\\repos\\Test\\git-wacom\\Wacom\\Wacom\\WacomFileManager\\WacomAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IvoIvanov\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\IvoIvanov\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",

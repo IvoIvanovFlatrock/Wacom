@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aXWVoc7jYJ6uYW1FPANxkk0FHuNY+tXfeBH36tJBQIQ8Ek286PWOnCiUGMnDPYJtPDCF7kf7Nv+qPcWB3b0o+A==",
+  "dgSpecHash": "1fg4K2xUS1I0l9f+DSQZSHIR5IuDFheZwEkNmEJz1G62cAWE78vU5qHRTibBVocVot1J+uyuW4u90RmeoywrWA==",
   "success": true,
-  "projectFilePath": "C:\\repos\\Test\\Wacom\\WacomCore\\WacomCore.csproj",
+  "projectFilePath": "C:\\repos\\Test\\git-wacom\\Wacom\\Wacom\\WacomCore\\WacomCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IvoIvanov\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\IvoIvanov\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

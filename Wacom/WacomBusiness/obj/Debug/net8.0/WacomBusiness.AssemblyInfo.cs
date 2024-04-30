@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WacomBusiness")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+493320eae4dcf39fefd70571e6cc1c2d756ac2b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("WacomBusiness")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WacomBusiness")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

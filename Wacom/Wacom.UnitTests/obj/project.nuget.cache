@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8dJFVtHxf7LQ5+etSeHINGC+G4Blv8V5F1oMKBG2gXy9uqF38KUBhKTvRZWHWamCxXgSkKGMdebmcE0Y5bZhog==",
+  "dgSpecHash": "VH+0BeSuQmzi9SncV4gQIploCsvZgu285w/GnQLzP6o+oIYkUOm4xRuo/aOV8n8NgCBDySbwRmcI5HDUQpZ+nQ==",
   "success": true,
-  "projectFilePath": "C:\\repos\\Test\\Wacom\\Wacom.UnitTests\\Wacom.UnitTests.csproj",
+  "projectFilePath": "C:\\repos\\Test\\git-wacom\\Wacom\\Wacom\\Wacom.UnitTests\\Wacom.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IvoIvanov\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\IvoIvanov\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",

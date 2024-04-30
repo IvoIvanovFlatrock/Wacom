@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P+tF5j5hx4Eem92Pw1qgUXKu+ahfncEo2400gUrp4JvmGW9Cd1ps2PNnf6Ru6jRbMC3Rbrmr7cH7MqlsYUx/1Q==",
+  "dgSpecHash": "sq91XAo3p2X8sM+oLg0RY/U+wzF3QMQjG7BSra7rOUtdfcfGVCI0MdkgHkN5fDuMIPNhmFGMutLQwtmQXSdbKg==",
   "success": true,
-  "projectFilePath": "C:\\repos\\Test\\Wacom\\WacomBusiness\\WacomBusiness.csproj",
+  "projectFilePath": "C:\\repos\\Test\\git-wacom\\Wacom\\Wacom\\WacomBusiness\\WacomBusiness.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IvoIvanov\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\IvoIvanov\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",

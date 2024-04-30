@@ -5223,11 +5223,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\Test\\Wacom\\Wacom.UnitTests\\Wacom.UnitTests.csproj",
+      "projectUniqueName": "C:\\repos\\Test\\git-wacom\\Wacom\\Wacom\\Wacom.UnitTests\\Wacom.UnitTests.csproj",
       "projectName": "Wacom.UnitTests",
-      "projectPath": "C:\\repos\\Test\\Wacom\\Wacom.UnitTests\\Wacom.UnitTests.csproj",
+      "projectPath": "C:\\repos\\Test\\git-wacom\\Wacom\\Wacom\\Wacom.UnitTests\\Wacom.UnitTests.csproj",
       "packagesPath": "C:\\Users\\IvoIvanov\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\Test\\Wacom\\Wacom.UnitTests\\obj\\",
+      "outputPath": "C:\\repos\\Test\\git-wacom\\Wacom\\Wacom\\Wacom.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5248,8 +5248,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\repos\\Test\\Wacom\\WacomFileManager\\WacomAPI.csproj": {
-              "projectPath": "C:\\repos\\Test\\Wacom\\WacomFileManager\\WacomAPI.csproj"
+            "C:\\repos\\Test\\git-wacom\\Wacom\\Wacom\\WacomFileManager\\WacomAPI.csproj": {
+              "projectPath": "C:\\repos\\Test\\git-wacom\\Wacom\\Wacom\\WacomFileManager\\WacomAPI.csproj"
             }
           }
         }

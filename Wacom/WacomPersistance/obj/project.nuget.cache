@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QQbhgzSMiVoVIOEjA+yaBA7vgox5kTHEzXE4ReCOmUrykzvEBrzMmbnLzmiBLwn2sFQ7D9/78KisAqSfOFYsdw==",
+  "dgSpecHash": "8neMGz4YijF74m7J9opfXpX62BSuMvgntYRCx+Z44Wc+RSmLJGfdbOJ10GYfRIqvCR82Yjx33FNCEHN/CNWqYw==",
   "success": true,
-  "projectFilePath": "C:\\repos\\Test\\Wacom\\WacomPersistance\\WacomPersistance.csproj",
+  "projectFilePath": "C:\\repos\\Test\\git-wacom\\Wacom\\Wacom\\WacomPersistance\\WacomPersistance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IvoIvanov\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\IvoIvanov\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",

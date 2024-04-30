@@ -3724,11 +3724,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\Test\\Wacom\\WacomCore\\WacomCore.csproj",
+      "projectUniqueName": "C:\\repos\\Test\\git-wacom\\Wacom\\Wacom\\WacomCore\\WacomCore.csproj",
       "projectName": "WacomCore",
-      "projectPath": "C:\\repos\\Test\\Wacom\\WacomCore\\WacomCore.csproj",
+      "projectPath": "C:\\repos\\Test\\git-wacom\\Wacom\\Wacom\\WacomCore\\WacomCore.csproj",
       "packagesPath": "C:\\Users\\IvoIvanov\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\Test\\Wacom\\WacomCore\\obj\\",
+      "outputPath": "C:\\repos\\Test\\git-wacom\\Wacom\\Wacom\\WacomCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
