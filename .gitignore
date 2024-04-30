@@ -13,7 +13,9 @@
 x64/
 [Bb]in/
 [Oo]bj/
-
+/.vs/Git-Learning-Series/FileContentIndex
+/.vs/Git-Learning-Series/v17
+/.vs
 # MSTest test Results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
